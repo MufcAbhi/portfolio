@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Plizz",
+    "description": "A Thailand based corporate accounting application which was recognized as the Xero Asia Partner of the Year 2021. It offers accounting services to customers by integration of Xero and corporate services inside Thailand.",
+    "url": "https://plizz.co/",
+    "image": "../src/assets/images/project-thumbnails/plizz.png",
+    "technologyUsed": [
+      "NuxtJS",
+      "NestJS",
+      "SSR",
+      "SCSS",
+      "Firebase",
+      "Xero"
+    ]
+  },
+  {
+    "name": "Flagship",
+    "description": "Flagship an expert in the e-commerce application Shopify. The application offers its services to a number of different clients which performs services like a preorder, product bundling, AWS SQS & AWS SNS services.",
+    "url": "https://flagship.cc/en",
+    "image": "../src/assets/images/project-thumbnails/flagship.png",
+    "technologyUsed": [
+      "NestJS",
+      "ReactJS",
+      "AWS SNS",
+      "AWS SQS",
+      "Shopify"
+    ]
+  },
+  {
+    "name": "SBAC",
+    "description": "An online English training application built for a Thai university - SBAC. Currently, the application is being used actively inside the university which provides video communication with the respective teachers, online courses, and online tests.",
+    "url": "https://lec.sbac.ac.th",
+    "image": "../src/assets/images/project-thumbnails/sbac.png",
+    "technologyUsed": [
+      "Vuejs",
+      "Laravel",
+      "MySQL",
+      "Docker",
+      "SASS",
+      "GraphQL",
+      "AWS"
+    ]
+  },
+  {
+    "name": "Belaws",
+    "description": "Belwas is a one-stop service designed to assist entrepreneurs and corporations in managing their legal, corporate, and accounting matters. Connects lawyers and customers for their legal requirements through the use of quotation service along with corporate services for company registration.",
+    "url": "https://www.belaws.com/",
+    "image": "../src/assets/images/project-thumbnails/belaws.png",
+    "technologyUsed": [
+      "Vuejs",
+      "Laravel",
+      "MySQL",
+      "Docker",
+      "SASS",
+      "GraphQL",
+      "AWS"
+    ]
+  },
+  {
+    "name": "Dzango admin panel",
+    "description": "An all-in-one management system specifically for dzango tech accelerator organization. It manages employee attendances, reveiws, events, customers data, employee history and many more.",
+    "url": "",
+    "image": "../src/assets/images/project-thumbnails/dzango-admin.png",
+    "technologyUsed": ["VueJS", "Larvel", "Google API"]
+  }
+]
