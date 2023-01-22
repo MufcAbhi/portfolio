@@ -48,7 +48,7 @@ export default function About() {
         </AboutInfo>
 
         <AboutInfoButtons>
-          <AboutInfoLink download href="assets/pdf/Abhijeet_Pradhanang_CV.pdf">
+          <AboutInfoLink download href="assets/pdf/cv.pdf">
             <Button variant="flex">
               Download CV
               <AboutInfoButtonIcon>
