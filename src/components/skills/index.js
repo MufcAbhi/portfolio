@@ -9,7 +9,7 @@ import SkillSet from 'components/skill-set';
 import { SkillsContainer } from './style';
 
 export default function Skills() {
-  const totalYearsWorked = 4;
+  const totalYearsWorked = 5;
 
   const skillSets = [
     {
@@ -23,12 +23,12 @@ export default function Skills() {
           year: totalYearsWorked,
         },
         {
-          name: 'JS / React / VueJS',
+          name: 'JS / VueJS',
           year: totalYearsWorked,
         },
         {
-          name: 'Gatsby / NuxtJS / Vuetify',
-          year: totalYearsWorked - 2,
+          name: 'NuxtJS / Vuetify / React / Material UI',
+          year: totalYearsWorked - 3,
         },
       ],
     },
@@ -40,10 +40,10 @@ export default function Skills() {
       data: [
         {
           name: 'PHP / Laravel / MySQL',
-          year: 3,
+          year: 2.5,
         },
         {
-          name: 'NodeJS / Mongoose / GraphQL',
+          name: 'NodeJS / NestJS / Mongoose / GraphQL',
           year: 3,
         },
         {
@@ -55,36 +55,24 @@ export default function Skills() {
     {
       id: 3,
       icon: <AiOutlineAntDesign />,
-      title: 'Designer',
+      title: 'Cloud',
       subtitle: `More than ${totalYearsWorked/2} years`,
       data: [
         {
-          name: 'Figma / Invision / AdobeXD',
-          year: totalYearsWorked / 2,
-        },
-        {
-          name: 'Photoshop',
-          year: totalYearsWorked / 2,
+          name: 'AWS S3, SNS, SES',
+          year: 2,
         },
       ],
     },
     {
       id: 4,
       icon: <SiAzuredevops />,
-      title: 'DevOps Enginner',
+      title: 'Devops',
       subtitle: 'More than 2 years',
       data: [
         {
-          name: 'CI/CD',
-          year: 2,
-        },
-        {
           name: 'Docker',
           year: 2,
-        },
-        {
-          name: 'Ansible',
-          year: 1,
         },
       ],
     },

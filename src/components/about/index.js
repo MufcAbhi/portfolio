@@ -23,12 +23,11 @@ export default function About() {
       <AboutContainer>
         <AboutImage src="/me-secondary.jpeg" alt="Me reading" />
         <AboutDescription>
-          Web developer, with extensive knowledge and years of experience, working in web technologies and UI / UX
-          design and delivering quality work.
+          Web developer, with extensive knowledge and years of experience, working in web technologies and delivering quality work.
         </AboutDescription>
         <AboutInfo>
           <div>
-            <AboutInfoTitle>04+</AboutInfoTitle>
+            <AboutInfoTitle>05+</AboutInfoTitle>
             <AboutInfoTitleName>
               Years <br /> Experience
             </AboutInfoTitleName>
@@ -48,7 +47,7 @@ export default function About() {
         </AboutInfo>
 
         <AboutInfoButtons>
-          <AboutInfoLink download href="assets/pdf/cv.pdf">
+          <AboutInfoLink download href="assets/pdf/Abhijeet_Pradhanang_CV.pdf">
             <Button variant="flex">
               Download CV
               <AboutInfoButtonIcon>

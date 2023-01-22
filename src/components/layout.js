@@ -14,13 +14,8 @@ const Layout = (props) => {
       <Footer>
         © {new Date().getFullYear()}, Built with
         <span style={{ margin: '0 10px' }}>❤️</span>by {' '}
-        <a href="https://avinashrijal.com.np/">Avinash Rijal</a>
-        <br />Powered by
+        <a href="https://abhijeetpradhanang.com.np/">Abhijeet Pradhanang</a>
         {' '}
-        <a target="_blank" href="https://www.gatsbyjs.org" rel="noreferrer">Gatsby</a>
-        <br />Hosted & used CMS by
-        {' '}
-        <a target="_blank" href="https://www.netlify.com" rel="noreferrer">Netlify</a>
       </Footer>
     </Wrapper>
   );

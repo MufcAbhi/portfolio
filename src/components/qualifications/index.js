@@ -32,9 +32,15 @@ export default function Qualifications() {
 
   const workQualifications = [
     {
-      title: 'Associate Software Engineer',
-      subtitle: 'Dzango - HongKong',
-      time: 'Oct 2017 - Dec 2018',
+      title: 'Full-stack developer (Freelance)',
+      subtitle: 'Dimitra - Canada',
+      time: 'June 2022 - present',
+      last: false,
+    },
+    {
+      title: 'Software Engineer II',
+      subtitle: 'Gurzu Inc. - Nepal',
+      time: 'Jan 2022 - Dec 2022',
       last: false,
     },
     {
@@ -44,9 +50,9 @@ export default function Qualifications() {
       last: false,
     },
     {
-      title: 'Software Engineer II',
-      subtitle: 'Gurzu Inc. - Nepal',
-      time: 'Jan 2021 - present',
+      title: 'Associate Software Engineer',
+      subtitle: 'Dzango - HongKong',
+      time: 'Oct 2017 - Dec 2018',
       last: true,
     },
   ];
