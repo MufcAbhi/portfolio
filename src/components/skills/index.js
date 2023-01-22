@@ -56,11 +56,11 @@ export default function Skills() {
       id: 3,
       icon: <AiOutlineAntDesign />,
       title: 'Cloud',
-      subtitle: `More than ${totalYearsWorked/2} years`,
+      subtitle: `More than 1.5 years`,
       data: [
         {
           name: 'AWS S3, SNS, SES',
-          year: 2,
+          year: 1.5,
         },
       ],
     },

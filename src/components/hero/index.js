@@ -67,7 +67,7 @@ export default function Hero() {
             </HomeBlob>
           </HomeImg>
           <HomeData>
-            <HomeTitle>Hi, I'am Abhijeet Pradhanang</HomeTitle>
+            <HomeTitle>Hi, I'm Abhijeet Pradhanang</HomeTitle>
             <HomeSubtitle>Software Engineer | Full Stack Developer</HomeSubtitle>
             <HomeDescription>
               Experienced full-stack web developer. Dedicated to producing reliable, quality work.

@@ -24,6 +24,7 @@ export default function About() {
         <AboutImage src="/me-secondary.jpeg" alt="Me reading" />
         <AboutDescription>
           Web developer, with extensive knowledge and years of experience, working in web technologies and delivering quality work.
+          I love to travel and connect with the nature to keep me sane!
         </AboutDescription>
         <AboutInfo>
           <div>
