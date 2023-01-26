@@ -32,11 +32,17 @@ export default function Qualifications() {
 
   const workQualifications = [
     {
-      title: 'Full-stack developer (Freelance)',
-      subtitle: 'Dimitra - Canada',
-      time: 'June 2022 - present',
+      title: 'Senior Software Engineer',
+      subtitle: 'Codeware Lab Pvt. Ltd.',
+      time: 'Dec 2022 - present',
       last: false,
     },
+    // {
+    //   title: 'Full-stack developer (Freelance)',
+    //   subtitle: 'Dimitra - Canada',
+    //   time: 'June 2022 - Dec 2022',
+    //   last: false,
+    // },
     {
       title: 'Software Engineer II',
       subtitle: 'Gurzu Inc. - Nepal',
