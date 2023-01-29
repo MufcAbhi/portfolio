@@ -6,17 +6,17 @@ description: What I used to create an ecommerce website
 ---
 As a personal project to learn in depth about React.js and Firebase, I worked on creating an Ecommerce website. It utilizes firebase authentication along with it's database. In this blog, I will briefly go into all the technologies that I used and learned about while working on it.\
 \
-H﻿ere's a list of the things I'll be going through:\
+H﻿ere's a list of the things I'll be going through:
 
-* Firebase authentication\
-* Redux\
-* Redux thunk\
-* Redux saga\
-* React multi layout routes\
-* HoC\
-* Custom Hooks\
-* Tailwind css\
-* Firebase functions\
+* Firebase authentication
+* Redux
+* Redux thunk
+* Redux saga
+* React multi layout routes
+* HoC
+* Custom Hooks
+* Tailwind css
+* Firebase functions
 * Stripe API payment
 
 ## F﻿irebase
@@ -43,3 +43,27 @@ I﻿t stores data in a JSON like structure and provides a NoSQL database. In thi
 ## R﻿edux
 
 R﻿edux is used to provide a managable and predictable way to manage states in JavaScript applications. Primarily, it is used extensively with React.js but it can be used with other JavaScript frameworks as well.
+
+I﻿t is used to maitain and update data across multiple components that share the mutations of common data across the application. There are three main elements of redux:
+
+1. **Actions**
+
+   Redux actions are events executed via `store.dispatch()` with which you can send data from your application to your Redux store. The data can be from user interactions, API calls, or even form submissions.
+
+   Actions are plain JavaScript objects that must have
+
+   * a `type` property to indicate the type of action to be carried out, and
+   * a `payload` object that contains the information that should be used to change the state.
+2. **Store**
+
+   Store is a “container” (JavaScript object) that holds the application state, and can be changed through actions dispatched to the store. Redux allows individual components connect to the store and apply changes to it by dispatching actions.
+3. **Reducers**
+
+   Reducers are pure functions that take the current state of an application, perform an action, and return a new state. The reducer handles how the state (application data) will change in response to an action.
+
+#### W﻿hy use Redux?
+
+* **P﻿redictable state:** Passing the same state and same action to a reducer produces same result.
+* **M﻿aintainability:** It helps to segregate business logic from the component tree and provides an organized code base.
+* **P﻿erformance:** Redux rerenders components only when it actually needs to. Thus improving application performance.
+* **S﻿erver-side rendering:** You can handle the initial render of the app by sending the state of an app to the server along with its response to the server request. The required components are then rendered in HTML and sent to the clients.
