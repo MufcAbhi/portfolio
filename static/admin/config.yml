@@ -1,7 +1,7 @@
 backend:
   name: github
-  repo: zaffron/avinash-portfolio
-  branch: master
+  repo: MufcAbhi/portfolio
+  branch: main
 
 media_folder: content/assets
 public_folder: ../assets

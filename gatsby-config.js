@@ -139,7 +139,7 @@ module.exports = {
         theme_color: `#663399`,
         display: `minimal-ui`,
         // edit below
-        icon: `content/assets/avinash-icon.png`,
+        icon: `content/assets/abhijeet-icon.png`,
       },
     },
     {

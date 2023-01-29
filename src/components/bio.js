@@ -13,7 +13,7 @@ import styled from 'styled-components';
 import { rhythm } from '../utils/typography';
 
 const bioQuery = graphql`query BioQuery {
-  avatar: file(absolutePath: {regex: "/avinash-icon.png/"}) {
+  avatar: file(absolutePath: {regex: "/abhijeet-icon.png/"}) {
     childImageSharp {
       gatsbyImageData(width: 50, height: 50, layout: FIXED)
     }
