@@ -27,5 +27,5 @@ module.exports = {
     phone: '+9779840020253',
   },
   foundingDate: '2020',
-  recaptchaKey: '6LdJS9IUAAAAAIDYZfbgQqcm17a05jgn1i_cfu_m',
+  recaptchaKey: '6LeIQjYkAAAAAIRd_y4DgRWVJUHi5w17Z3ca5ee4',
 };
