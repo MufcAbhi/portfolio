@@ -1,6 +1,6 @@
 module.exports = {
   defaultTitle: 'Abhijeet Pradhanang',
-  logo: 'https://avinashrijal.com.np/favicon/favicon.png',
+  logo: 'https://abhijeetpradhanang.com.np/favicon/favicon.png',
   author: 'Abhijeet Pradhanang',
   url: 'https://abhijeetpradhanang.com.np',
   legalName: 'Abhijeet Pradhanang',
@@ -13,8 +13,8 @@ module.exports = {
   themeColor: '#6b63ff',
   backgroundColor: '#6b63ff',
   // social: {
-  //   facebook: 'avlas.rijal',
-  //   twitter: '@avinashrijal',
+  //   facebook: '',
+  //   twitter: '@',
   // },
   address: {
     city: 'Kathmandu',
@@ -27,5 +27,5 @@ module.exports = {
     phone: '+9779840020253',
   },
   foundingDate: '2020',
-  recaptchaKey: '6LeIQjYkAAAAAIRd_y4DgRWVJUHi5w17Z3ca5ee4',
+  recaptchaKey: '6LeKUDYkAAAAAJ4B98BvlDoJ81Db7RsxHiHsivI1',
 };

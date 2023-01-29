@@ -91,14 +91,14 @@ export default function Header() {
                 Contact Me
               </NavLink>
             </NavItem>
-            {/* <NavItem>
+            <NavItem>
               <NavLink to="/blog">
                 <NavIcon>
                   <AiOutlineUser />
                 </NavIcon>{' '}
                 Blog
               </NavLink>
-            </NavItem> */}
+            </NavItem>
           </NavList>
           <NavClose onClick={() => toggleNavbar(false)}>
             <FaTimes />
