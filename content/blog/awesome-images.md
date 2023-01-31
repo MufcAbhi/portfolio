@@ -1,11 +1,11 @@
 ---
 path: awesome-images
 date: 2020-06-06T01:22:55.506Z
-title: Awesome Images
+title: Gatbsy Asset Images
 description: Fix for gatsby-plugin-mdx and gatsby-remark-images
 ---
 
-![Great Gatsby](/../assets/great2.jpg "Great Gatsby")
+<!-- ![Great Gatsby](/../assets/great2.jpg "Great Gatsby") -->
 
 ## Netlify CMS Media Configuration
 
