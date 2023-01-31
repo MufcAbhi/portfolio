@@ -4,8 +4,8 @@ date: 2023-01-29T09:34:11.650Z
 title: Ecommerce site using React and Firebase
 description: What I used to create an ecommerce website
 ---
-As a personal project to learn in depth about React.js and Firebase, I worked on creating an Ecommerce website. It utilizes firebase authentication along with it's database. In this blog, I will briefly go into all the technologies that I used and learned about while working on it.\
-\
+As a personal project to learn in depth about React.js and Firebase, I worked on creating an Ecommerce website. It utilizes firebase authentication along with it's database. In this blog, I will briefly go into all the technologies that I used and learned about while working on it.
+
 H﻿ere's a list of the things I'll be going through:
 
 * Firebase authentication
