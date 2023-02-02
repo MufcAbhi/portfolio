@@ -10,14 +10,13 @@ H﻿ere's a list of the things I'll be going through:
 
 * Firebase authentication
 * Redux
-* Redux thunk
-* Redux saga
-* React multi layout routes
-* HoC
-* Custom Hooks
-* Tailwind css
-* Firebase functions
-* Stripe API payment
+* [Redux thunk](https://abhijeetpradhanang.com.np/blog/redux-thunk-and-saga/)
+* [Redux saga](https://abhijeetpradhanang.com.np/blog/redux-thunk-and-saga/)
+* [React multi layout routes](https://abhijeetpradhanang.com.np/blog/react-multi-layout/)
+* [](https://abhijeetpradhanang.com.np/blog/react-multi-layout/)[HoC](https://abhijeetpradhanang.com.np/blog/react-hoc/)
+* [Custom Hooks](https://abhijeetpradhanang.com.np/blog/react-custom-hooks/)
+* [](https://abhijeetpradhanang.com.np/blog/react-custom-hooks/)[Firebase functions](https://abhijeetpradhanang.com.np/blog/firebase-functions/)
+* [](https://abhijeetpradhanang.com.np/blog/stripe-payment/)[Stripe API payment](https://abhijeetpradhanang.com.np/blog/stripe-payment/)
 
 ## F﻿irebase
 
