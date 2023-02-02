@@ -12,9 +12,7 @@ const Layout = (props) => {
       <Header />
       <Main>{children}</Main>
       <Footer>
-        © {new Date().getFullYear()}, Built with
-        <span style={{ margin: '0 10px' }}>❤️</span>by {' '}
-        <a href="https://abhijeetpradhanang.com.np/">Abhijeet Pradhanang</a>
+        © {new Date().getFullYear()}, <a href="https://abhijeetpradhanang.com.np/">Abhijeet Pradhanang</a>
         {' '}
       </Footer>
     </Wrapper>

@@ -40,7 +40,7 @@ export default function About() {
             </AboutInfoTitleName>
           </div>
           <div>
-            <AboutInfoTitle>02</AboutInfoTitle>
+            <AboutInfoTitle>03</AboutInfoTitle>
             <AboutInfoTitleName>
               Companies <br /> Worked
             </AboutInfoTitleName>

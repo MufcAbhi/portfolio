@@ -26,6 +26,18 @@ export default function Qualifications() {
       title: 'Bachelor In Computer Engineering',
       subtitle: 'Tribhuvan University - Nepal',
       time: '2013-2017',
+      last: false,
+    },
+    {
+      title: '+2 in Physics',
+      subtitle: `St. Xaviers' College - Nepal`,
+      time: '2011-2013',
+      last: false,
+    },
+    {
+      title: 'School',
+      subtitle: `Little Angels' School - Nepal`,
+      time: '2010',
       last: true,
     },
   ];
@@ -37,12 +49,12 @@ export default function Qualifications() {
       time: 'Dec 2022 - present',
       last: false,
     },
-    // {
-    //   title: 'Full-stack developer (Freelance)',
-    //   subtitle: 'Dimitra - Canada',
-    //   time: 'June 2022 - Dec 2022',
-    //   last: false,
-    // },
+    {
+      title: 'Full-stack developer (Freelance)',
+      subtitle: 'Dimitra - Canada',
+      time: 'June 2022 - Dec 2022',
+      last: false,
+    },
     {
       title: 'Software Engineer II',
       subtitle: 'Gurzu Inc. - Nepal',
