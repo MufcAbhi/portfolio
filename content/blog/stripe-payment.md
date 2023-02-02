@@ -4,10 +4,10 @@ date: 2023-02-02T17:42:11.261Z
 title: Stripe Payment
 description: Stripe payment in React.js
 ---
-Stripe is a payment platform that provides a simple, developer-friendly way to accept payments online. Stripe makes it easy to integrate payment processing into your website or mobile app without having to deal with complex payment gateway and merchant account setup and management.\
-\
-Stripe supports a wide range of payment methods, including credit and debit cards, and alternative payment methods like Apple Pay and Google Pay. The platform offers a variety of tools and APIs that allow users to easily customize their payment experience, offering features such as automatic fraud detection, real-time reporting, and automatic receipt generation.\
-\
+Stripe is a payment platform that provides a simple, developer-friendly way to accept payments online. Stripe makes it easy to integrate payment processing into your website or mobile app without having to deal with complex payment gateway and merchant account setup and management.
+
+Stripe supports a wide range of payment methods, including credit and debit cards, and alternative payment methods like Apple Pay and Google Pay. The platform offers a variety of tools and APIs that allow users to easily customize their payment experience, offering features such as automatic fraud detection, real-time reporting, and automatic receipt generation.
+
 With Stripe, you can accept one-time payments or set up recurring payments for your subscriptions. You can use the platform to manage your customer data and payment history. Stripe also offers built-in support for many different currencies and offers transparent pricing with no hidden fees.\
 \
 Used by companies of all sizes, from small startups to large corporations, Stripe is known for its high level of security and reliability. If you're looking for a simple and flexible way to accept payments online, I recommend considering Stripe.
@@ -66,7 +66,7 @@ import { CardElement, useElements, useStripe } from "@stripe/react-stripe-js";
 </div>
 ```
 
-* Payment creation is done here via the [firebase function](https://avipradhanang.wordpress.com/2023/02/09/firebase-functions/) using Stripe. The **paymentMethod** and **paymentConfirmation** are done in the component in this example. In retrospect, it might make sense to do the entire stripe payment process in the firebase function. On submitting the form for processing payment.
+* Payment creation is done here via the firebase function using Stripe. The **paymentMethod** and **paymentConfirmation** are done in the component in this example. In retrospect, it might make sense to do the entire stripe payment process in the [firebase function](https://abhijeetpradhanang.com.np/blog/firebase-functions/). On submitting the form for processing payment.
 
 ```
  const cardElement = elements.getElement('card');
