@@ -11,7 +11,7 @@ For example, you might want different layouts for the home page, the dashboard f
 
 Applications typically define different routes and specify the layout to use for each route. The routing library will then render the appropriate layout based on the current URL. Additionally, you can pass props to layout components to enable dynamic rendering based on the current route.
 
-Example: https://gitlab.com/MufcAbhi/ecommerce/-/blob/master/src/App.jsHigher-Order
+Example: https://gitlab.com/MufcAbhi/ecommerce/-/blob/master/src/App.js
 
 ```
  <Route path="admin" element={<AdminLayout />}>
