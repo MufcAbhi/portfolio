@@ -16,6 +16,7 @@ const ContactForm = ({ setFieldValue, isSubmitting, values, errors, touched }) =
     data-netlify="true"
     data-netlify-recaptcha="true"
     data-netlify-honeypot="bot-field"
+    netlify="true"
   >
     <InputField>
       <label>{'Name*'}</label>
