@@ -9,7 +9,7 @@ module.exports = {
     github: 'https://github.com/MufcAbhi',
     linkedIn: "https://www.linkedin.com/in/abhijeet-pradhanang/"
   },
-  googleAnalyticsID: 'UA-122672092-2',
+  googleAnalyticsID: 'G-9BTQE9KQRP',
   themeColor: '#6b63ff',
   backgroundColor: '#6b63ff',
   // social: {
