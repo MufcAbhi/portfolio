@@ -52,7 +52,7 @@ export default function Qualifications() {
     {
       title: 'Full-stack developer (Freelance)',
       subtitle: 'Dimitra - Canada',
-      time: 'June 2022 - Dec 2022',
+      time: '',
       last: false,
     },
     {
