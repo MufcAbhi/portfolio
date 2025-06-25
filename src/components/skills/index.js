@@ -9,7 +9,7 @@ import SkillSet from 'components/skill-set';
 import { SkillsContainer } from './style';
 
 export default function Skills() {
-  const totalYearsWorked = 5;
+  const totalYearsWorked = 7;
 
   const skillSets = [
     {
@@ -24,11 +24,15 @@ export default function Skills() {
         },
         {
           name: 'JS / VueJS',
-          year: totalYearsWorked,
+          year: 5,
         },
         {
-          name: 'NuxtJS / Vuetify / React / Material UI',
-          year: totalYearsWorked - 3,
+          name: 'ReactJS / NextJS / Material UI',
+          year: 5,
+        },
+        {
+          name: 'NuxtJS / Vuetify',
+          year: 2,
         },
       ],
     },
@@ -44,7 +48,7 @@ export default function Skills() {
         },
         {
           name: 'NodeJS / NestJS / Mongoose / GraphQL',
-          year: 3,
+          year: 5,
         },
         {
           name: 'Firebase / Socket.io',
@@ -60,7 +64,11 @@ export default function Skills() {
       data: [
         {
           name: 'AWS S3, SNS, SES',
-          year: 1.5,
+          year: 4,
+        },
+        {
+          name: 'Azure Devops, Azure Blob Events/Storage, Azure Web App, Azure Key Vault',
+          year: 2,
         },
       ],
     },
