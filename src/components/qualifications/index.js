@@ -25,13 +25,13 @@ export default function Qualifications() {
     {
       title: 'Bachelor In Computer Engineering',
       subtitle: 'Tribhuvan University - Nepal',
-      time: '2013-2017',
+      time: '2013 - 2017',
       last: false,
     },
     {
       title: '+2 in Physics',
       subtitle: `St. Xaviers' College - Nepal`,
-      time: '2011-2013',
+      time: '2011 - 2013',
       last: false,
     },
     {
@@ -44,25 +44,25 @@ export default function Qualifications() {
 
   const workQualifications = [
     {
-      title: 'Senior Software Engineer',
-      subtitle: 'Codeware Lab Pvt. Ltd.',
-      time: 'Dec 2022 - present',
+      title: 'Software Developer - SME React',
+      subtitle: 'Child & Family Service Agency',
+      time: 'Sep 2023 - present',
       last: false,
     },
     {
-      title: 'Full-stack developer (Freelance)',
+      title: 'Lead full-stack developer',
       subtitle: 'Dimitra - Canada',
-      time: '',
+      time: 'Jun 2022 - Mar 2023'                                                             ',
       last: false,
     },
     {
-      title: 'Software Engineer II',
+      title: 'Software Engineer',
       subtitle: 'Gurzu Inc. - Nepal',
       time: 'Jan 2022 - Dec 2022',
       last: false,
     },
     {
-      title: 'Software Engineer II & Team Lead',
+      title: 'Software Engineer & Team Lead',
       subtitle: 'Dzango - HongKong',
       time: 'Jan 2019 - Dec 2021',
       last: false,
