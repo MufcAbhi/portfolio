@@ -52,7 +52,7 @@ export default function Qualifications() {
     {
       title: 'Lead full-stack developer',
       subtitle: 'Dimitra - Canada',
-      time: 'Jun 2022 - Mar 2023'                                                             ',
+      time: 'Jun 2022 - Mar 2023',
       last: false,
     },
     {
